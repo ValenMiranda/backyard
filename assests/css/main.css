@@ -67,4 +67,42 @@
 	letter-spacing: 1px;	
 }
 
+/* FORMULARIO */
 
+#form-id.flex-container{
+	flex-direction: column;
+	align-items: center;
+}	
+
+#el-form{
+	background-color: #393636;
+	width: 50%;
+	padding: 25px;
+	border-radius: 15px;
+	color: white;
+	text-align: center;
+	align-content: center;	
+	margin: 0 10px;
+}
+
+#el-form h1{
+	margin: 10px 0;	
+}
+
+#el-form input{
+	width: 380px;
+	margin: 0 0 15px  0;
+	height: 40px;
+}
+
+#el-form div{
+	margin: 20px 0;
+}
+
+#el-form a{
+	color: white;
+	width: 380px;
+	background-color: #CA3D3F;	
+	padding: 5% 143px;
+	text-decoration: none;
+}
