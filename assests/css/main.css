@@ -34,3 +34,37 @@
 	font-size: 1.1em;	
 	color: #3F3F3F;
 }
+
+/*---------- SECTION ---------*/
+
+#section-center.flex-container{
+	flex-direction: row;
+	justify-content: center;
+}
+
+#section-center{
+	background-color: #686161;
+	padding: 50px 150px;
+	width: 100%;
+	height: 100%;
+}
+
+/* TEXTO */
+
+.texto{
+	width: 50%;
+	color: white;
+	margin: 0 10px;
+}
+
+.texto h1{
+	margin: 0 0 5px 0;
+	font-size: 2.3em;
+	letter-spacing: 1px;	
+}
+
+.texto p{
+	letter-spacing: 1px;	
+}
+
+
